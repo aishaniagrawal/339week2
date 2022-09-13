@@ -1,0 +1,17 @@
+body{
+    font-family: Courier, "Times New Roman", Impact;
+    line-height: 2;
+    color: beige;
+    background-color: lightpink;
+    font-size: 38px;
+}
+/* since Times New Roman is more than one word, you need quotes around it */
+
+img{
+    border: 5px solid darkblue;
+}
+/* HAVE to have the border type or nothing will show up */
+
+li{
+    border: solid 25px darkblue;
+}
