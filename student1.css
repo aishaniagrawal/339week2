@@ -1,0 +1,42 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+  
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+  
+ }
+ ul li{
+    margin-left: 25px;
+    list-style-type: upper-roman;
+ } 
+
+
+nav li{
+    border-radius: 50px;
+    border: 2px solid blue;
+    background-color: beige;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 20px;
+    margin: 20px;
+    color: blue;
+    display: inline-block;
+}
+
+img{
+    width: 24%;
+    padding: 11px;
+    border: 5px dotted blue;
+    margin: none;
+    box-sizing: border-box;
+}
+
+p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: beige;
+    text-align: center;
+    background-color: blue;
+}
