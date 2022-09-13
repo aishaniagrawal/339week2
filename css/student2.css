@@ -1,0 +1,42 @@
+body{
+    margin:5px;
+    padding:5px;
+    line-height:1.15;
+ }
+  
+ h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+  
+ }
+ ul li{
+    margin-left: 25px;
+    list-style-type: upper-roman;
+ }
+ 
+ nav li{
+    border: 5px solid #1b6f93;
+    background-color: #77b7d2;
+    border-radius: 25px;
+    font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande";
+    padding: 15px;
+    margin: 20px;
+    width: 20%;
+    display: inline-block;
+ }
+
+ img {
+    width: 24%;
+    padding: 11px;
+    border: 10px dotted #1b6f93;
+    margin: none;
+    box-sizing: border-box;
+ }
+
+ p{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #1b6f93;
+    text-align: center;
+    background-color: rgb(220, 238, 251);
+
+ }
